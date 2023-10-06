@@ -1,0 +1,1 @@
+2023/10/05 16:08:49 [error] 29820#26348: *34958 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10026", host: "planty2.local", referrer: "http://planty2.local/wp-admin/post.php?post=6&action=elementor"

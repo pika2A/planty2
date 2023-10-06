@@ -9,3 +9,14 @@ Version: 1.0
 */
 
 /* Parent stylesheet should be loaded from functions.php not using @import */
+
+
+/* *********************STYLE GENERAL*********************** */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.e-con-inner {
+    background-color: #e3d9d0;
+}
